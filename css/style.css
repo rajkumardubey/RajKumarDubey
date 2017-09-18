@@ -1292,3 +1292,14 @@ body {
     text-align: justify;
     font-family: "bebas_neue_regularregular", "Lato", sans-serif
 }
+
+
+
+@media only screen and (min-width:200px) and (max-width:768px)  {
+    .adjectives{
+        display: none;
+    }
+    .profile{
+        font-size: 20px !important;
+    }
+}
